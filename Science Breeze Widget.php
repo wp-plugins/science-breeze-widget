@@ -114,7 +114,7 @@ function ttcx()
 	}
     ?>
 	
-   <a href="<?=$i->link?>"><?=$title?><span style="color: #008000;">(à¦¨à¦¿à¦°à§à¦¬à¦¾à¦šà¦¿à¦¤ à¦ªà§‹à¦¸à§à¦Ÿ)</span></a> 
+   <a href="<?=$i->link?>"><?=$title?><span style="color: #008000;">(নির্বাচিত পোস্ট)</span></a> 
 
 	</li> 
 
